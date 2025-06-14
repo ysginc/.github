@@ -31,7 +31,7 @@ We welcome feedback, collaboration, and community contributions. Here’s how yo
 - 📘 [Community Guidelines](https://github.com/ysginc/community/blob/main/CODE_OF_CONDUCT.md)  
 - 🛠️ [Contributing Guide](https://github.com/ysginc/community/blob/main/CONTRIBUTING.md)  
 - 🧾 [Website](https://www.ysginc.com)  
-- ✉️ Contact: community@ysginc.com
+- ✉️ Contact: community@ysginc.io (Not Yet Available)
 
 ---
 
