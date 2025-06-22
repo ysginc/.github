@@ -20,7 +20,7 @@ We combine deep operational expertise with cutting-edge software engineering to 
 
 We welcome feedback, collaboration, and community contributions. Here’s how you can join us:
 
-- Visit our [📍 Community Hub](https://github.com/ysginc/community) to start a conversation or open a discussion.
+- Visit our 📍[Community Hub](https://github.com/ysginc/community) to start a conversation or open a discussion.
 - Use [issues](https://github.com/ysginc/community/issues) to report bugs, request features, or provide feedback.
 - Explore our public projects and submit pull requests if you’d like to help improve them.
 
